@@ -49,27 +49,6 @@ else:
     문장2
 ```
 
-### 예제 1: 배송비 계산
-
-```python
-# 사용자로부터 상품 가격 입력
-price = int(input("상품의 가격: "))
-
-# 배송비 결정
-if price > 20000:
-    shipping_cost = 0
-else:
-    shipping_cost = 3000
-
-print("배송비 =", shipping_cost)
-```
-
-**실행 결과**
-```
-상품의 가격: 30000
-배송비 = 0
-```
-
 ### if 문만 사용 (else 생략)
 
 ```python
@@ -229,17 +208,6 @@ print("큰 수=", max_value, "작은 수=", min_value)
 | True | False |
 | False | True |
 
-### 예제: 배송료 결정
-
-```python
-price = int(input("가격을 입력하시오: "))
-card = input("카드 종류를 입력하시오: ")
-
-if price > 20000 and card == "python":
-    print("배송료가 없습니다.")
-else:
-    print("배송료는 3000원입니다.")
-```
 
 ### 드모르간의 법칙 (De Morgan's Law)
 
