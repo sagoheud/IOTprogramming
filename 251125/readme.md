@@ -35,7 +35,6 @@ class Dog:
     def __init__(self, name, age):  # 속성 정의
         self.name = name
         self.age = age
-    
     def bark(self):                 # 행동 정의
         return f"{self.name} is barking!"
 
