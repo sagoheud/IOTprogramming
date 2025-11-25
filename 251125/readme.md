@@ -13,8 +13,8 @@
 
 예:
 
-a = 10      # int 객체
-b = "hi"    # str 객체
+x = 5
+print(x.bit_length())   # 정수 객체의 메서드 호출
 
 ---
 
@@ -31,15 +31,15 @@ b = "hi"    # str 객체
 이를 활용해 동일한 구조의 객체를 여러 개 만들 수 있다.
 
 예시
-class Person:
-    def __init__(self, name):
+class Dog:
+    def __init__(self, name, age):  # 속성 정의
         self.name = name
+        self.age = age
     
-    def greet(self):
-        print(f"Hello, I'm {self.name}")
+    def bark(self):                 # 행동 정의
+        return f"{self.name} is barking!"
 
-p = Person("Tom")  # 인스턴스 생성
-p.greet()
+d1 = Dog("Coco", 3)    # Dog 클래스의 객체(인스턴스)
 
 ---
 
