@@ -13,10 +13,10 @@
 
 예:
 
+```python
 x = 5
 print(x.bit_length())   # 정수 객체의 메서드 호출
-
----
+```
 
 🔷 파이썬 클래스(Class)
 
@@ -30,17 +30,19 @@ print(x.bit_length())   # 정수 객체의 메서드 호출
 
 이를 활용해 동일한 구조의 객체를 여러 개 만들 수 있다.
 
-예시
+예:
+
+```python
 class Dog:
     def __init__(self, name, age):  # 속성 정의
         self.name = name
         self.age = age
+    
     def bark(self):                 # 행동 정의
         return f"{self.name} is barking!"
 
 d1 = Dog("Coco", 3)    # Dog 클래스의 객체(인스턴스)
-
----
+```
 
 🔷 절차지향 프로그래밍 (Procedural Programming)
 
