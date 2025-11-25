@@ -1,14 +1,15 @@
 
 🔷 가상환경 세팅
+
 ^~p => Python: select interpreter
 
-파이썬 버전 지시
+파이썬 버전 지정 후
 
 >Python -m venv ./venv
 
 >.\.venv\Scripts\activate
 
->() >
+() >
 
 ---
 
