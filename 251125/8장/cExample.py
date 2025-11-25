@@ -1,4 +1,5 @@
-import counter as pc
+import counter as p
 def main():
-    a = pc.Counter()
+    a = p.Counter()
+
     print(a)  # Output: counter.py의 출력
