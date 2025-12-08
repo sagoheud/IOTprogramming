@@ -1,5 +1,6 @@
 ---
 C++ 참고사항
+---
 
 https://wikidocs.net/book/2380
 
@@ -15,6 +16,7 @@ https://blog.naver.com/syunjae21/222545501011
 
 ---
 C언어 데이터 타입:
+---
 
 [signed], char, short, int, long, 
 
