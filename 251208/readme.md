@@ -27,3 +27,13 @@ unsigned,
 float, double
 
 ---
+
+---
+assignmnet
+var = exprssion
+      constant, literal    a = 1
+      variable             a = b
+      operator             a = b + 1
+      funtion              a = sum(1,2) + 45 * number
+
+---
