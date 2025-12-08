@@ -13,7 +13,7 @@ https://blog.naver.com/syunjae21/222545501011
 ---
 
 ---
-c언어 데이터타입:
+C언어 데이터 타입:
 
 [signed], char, short, int, long, 
 
