@@ -22,7 +22,7 @@ void, bool
 
 [signed], char, short, int, long, 
 
-unsigned,\n
+unsigned,
 
 float, double
 
