@@ -18,6 +18,8 @@ https://blog.naver.com/syunjae21/222545501011
 C언어 데이터 타입:
 ---
 
+void, bool
+
 [signed], char, short, int, long, 
 
 unsigned, 
