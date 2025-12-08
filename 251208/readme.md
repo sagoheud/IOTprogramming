@@ -37,5 +37,8 @@ var = exprssion
       operator             a = b + 1
       funtion              a = sum(1,2) + 45 * number
 
+int a; int a = 1;
+a = 1;
+
 ```
 ---
