@@ -46,3 +46,10 @@ https://roadmap.sh/
 
 ```
 ---
+
+---
+```
+vscode 코드 자동정렬: Shift + Alt + F
+
+```
+---
