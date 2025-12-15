@@ -19,3 +19,10 @@ myFunction(argument 1, argument 2, ...){
 프로토타입 ≠ 시그니쳐
 ```
 ---
+
+---
+```
+vsc 라이브러리 목록 내보내기
+https://torhy.tistory.com/40
+```
+---
