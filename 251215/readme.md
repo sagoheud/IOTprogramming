@@ -1,3 +1,4 @@
+
 ---
 '''
 return value data type function name(parameters){
@@ -9,5 +10,4 @@ myFunction(argument 1, argument 2, ...){
 
 }
 '''
-
 ---
